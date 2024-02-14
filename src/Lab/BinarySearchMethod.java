@@ -1,4 +1,4 @@
-package Learn.Lab;
+package Lab;
 
 public class BinarySearchMethod {
     public static void main(String[] args) {
